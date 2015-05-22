@@ -1,3 +1,7 @@
+# CODE BOOK
+
+Here you cand find the description of variables in the tidy data set that contains the averages of means & standard deviations
+
 ## Subject
 
 A integer value between 1 & 30 representing an individual in the study.
